@@ -11,7 +11,7 @@ A Next.js-based dashboard for HR managers to track employee performance, manage 
 - **Bonus**: Pagination, mock login screen, dark/light mode, responsive design.
 
 ## Setup Instructions
-1. Clone the repository: `git clone <repo-url>`
+1. Clone the repository: `git clone [<repo-url>](https://github.com/Niranjan179/Hr--Dashboard.git)`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 4. Open `http://localhost:3000` in your browser.
@@ -25,7 +25,7 @@ A Next.js-based dashboard for HR managers to track employee performance, manage 
 - next-themes
 
 ## Screenshots
-(TODO: Add screenshots of homepage, employee details, bookmarks, and analytics pages)
+
 
 ## Notes
 - Uses `https://dummyjson.com/users` for mock data.
